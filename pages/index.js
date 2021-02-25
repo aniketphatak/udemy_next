@@ -15,7 +15,7 @@ export default function Home() {
       <main>
         <div className={styles.main}>
           <h1 className={styles.title}>
-            Welcome to My App!
+            Hello World!
           </h1>
           <Header />
           <img src="/McDonalds_logo.png" />
